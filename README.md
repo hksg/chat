@@ -1,2 +1,1 @@
-# chat
-Chat room for shipping industry
+simple chatroom using socket.io and node.js
