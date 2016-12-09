@@ -57,9 +57,9 @@
 
 
       var socket = io();
+	var name = prompt("請輸入暱稱","guest");
       $(document).ready(function(){
 
-        var name = prompt("請輸入暱稱","guest");
 
         if(name=="" || name==null){
           name = "guest";
